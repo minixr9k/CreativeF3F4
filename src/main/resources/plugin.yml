@@ -1,0 +1,8 @@
+name: CreativeF3F4
+version: '${version}'
+
+main: dev.minixr9k.creativeF3F4.CreativeF3F4
+api-version: '1.21.8'
+load: POSTWORLD
+softdepend:
+  - packetevents
